@@ -5,6 +5,8 @@ la Evaluacion 4 de Desarrollo Fronted
 
 El sitio presenta mi perfil profesional, Un formulario de contacto accesible y la carga dinamica de mis repositorios publicos desde Github.
 
+Captura del portafolio original: [docs/captura-portafolio.png](docs/captura-portafolio.png)
+
 
 Caracteristicas Principales: 
 
