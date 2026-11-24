@@ -53,6 +53,7 @@ Tecnologías utilizadas:
 
 Estructura del proyecto:
 
+```text
 Evaluacion-4-Dmanquicoy/
 ├── index.html
 ├── package.json
@@ -70,7 +71,7 @@ Evaluacion-4-Dmanquicoy/
     ├── App.tsx          # Definición de rutas principales
     ├── index.css        # Variables globales y estilos base
     └── main.tsx         # Punto de entrada de la aplicación
-
+```
 
 Instalación y Ejecución:
 
