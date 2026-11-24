@@ -1,0 +1,28 @@
+.repo-card {
+  background: var(--color-superficie);
+  padding: 1rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+}
+
+.repo-card__title {
+  font-size: 1.15rem;
+  overflow-wrap: anywhere;
+}
+
+.repo-card__description {
+  flex-grow: 1;
+}
+
+.repo-card__meta {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.repo-card .btn {
+  align-self: flex-start;
+}

@@ -1,13 +1,7 @@
-# Declaración de uso de IA
+Declaracion uso de IA
 
-## 1. Herramientas utilizadas
+- IA: Gemini
+- Modelo: Hidrógen
+- Esfuerzo: Alto 
 
-## 2. Propósito de uso
-
-## 3. Prompts representativos
-
-## 4. Output recibido
-
-## 5. Ajustes, refactorización y verificación
-
-## 6. Reflexión crítica final
+Mensaje Enviado:

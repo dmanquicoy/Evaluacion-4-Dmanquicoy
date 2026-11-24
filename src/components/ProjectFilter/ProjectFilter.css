@@ -1,0 +1,23 @@
+.project-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.project-filter__button {
+  background: var(--color-superficie);
+  color: var(--color-texto);
+  border: 1px solid var(--color-campo);
+  border-radius: 4px;
+  padding: 0.4rem 1rem;
+  font-size: 0.95rem;
+  cursor: pointer;
+}
+
+.project-filter__button--active {
+  background: var(--color-acento);
+  border-color: var(--color-acento);
+  color: #0b2233;
+  font-weight: bold;
+}
